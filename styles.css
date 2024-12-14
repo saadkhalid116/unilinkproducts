@@ -7,7 +7,7 @@ body {
 }
 
 .hero-section {
-    background: url('images/Rectangle\ 1.png') no-repeat center center/cover;
+    background: url('Rectangle\ 1.png') no-repeat center center/cover;
     height: 100vh;
     color: white;
     display: flex;
@@ -17,7 +17,7 @@ body {
 }
 @media (max-width: 500px) {
 .hero-section {
-    background: url('images/reduced.png') no-repeat center center/cover;
+    background: url('reduced.png') no-repeat center center/cover;
     height: 100vh;
     color: white;
     display: flex;
@@ -28,7 +28,7 @@ body {
 }
 
 .hero-section-product {
-    background: url('images/product\ Rectangle.png') no-repeat center center/cover;
+    background: url('product\ Rectangle.png') no-repeat center center/cover;
     height: 57vh;
     color: white;
     display: flex;
@@ -38,7 +38,7 @@ body {
 }
 
 .hero-section-fulfillment {
-    background: url('images/Rectangle\ fulfillment.png') no-repeat center center/cover;
+    background: url('Rectangle\ fulfillment.png') no-repeat center center/cover;
     height: 57vh;
     color: white;
     display: flex;
